@@ -39,3 +39,18 @@
     .nome{
         width: 150px;
     }
+   @media(max-width:600px){
+        .caixa{
+            padding: 10px;
+            width:  30vh;
+           
+        }
+        .informacao{
+            margin-bottom: 5px;
+            width: 50px;
+        }
+        .botao{
+            margin-top: 10px;
+            width: 30%;
+        }
+    }
